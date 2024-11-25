@@ -18,3 +18,13 @@ Sortify adalah aplikasi pintar yang membantu pengguna untuk mengidentifikasi dan
    git clone https://github.com/username/sortify.git
    cd sortify
    ```
+2. Install Node.js for make API
+   ```bash
+   npm init -y
+   ```
+3. Install Framework Hapi
+   ```bash
+   npm install @hapi/hapi bcrypt jsonwebtoken joi
+
+4. Testing API with POSMAN
+   
