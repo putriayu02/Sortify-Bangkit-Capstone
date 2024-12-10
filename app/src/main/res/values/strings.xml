@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SORTIFY</string>
+    <string name="sub_judul">Kenali Sampah, Wujudkan Lingkungan Lestari!</string>
+    <string name="sub_judul_2">Ayo mulai bersih-bersih! Silakan Login atau Register untuk bergabung dengan gerakan peduli lingkungan bersama Sortify.</string>
+    <string name="button_get_started">GET STARTED</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="btn_regis">Register</string>
+</resources>
